@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Bitacora Baruc",
+    "slug": "bitacora-baruc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.davidsuazo.bitacorabaruc",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "ios": {
+      "bundleIdentifier": "com.davidsuazo.bitacorabaruc",
+      "buildNumber": "1.0.0"
+    },
+    "plugins": [],
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}
